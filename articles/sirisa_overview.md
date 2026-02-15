@@ -77,7 +77,7 @@ SIRISAのURL: [https://sirisa.net](https://sirisa.net)
 *表2. ユーザの定義*
 
 以上のユーザのユースケース図を以下の図1に示す。
-![ユースケース図](https://sirisa.net/images/outline/usecase.png)
+![ユースケース図](/images/outline/usecase.png)
 *図1. ユースケース図*
 
 ### 前提
@@ -136,7 +136,7 @@ SIRISAのURL: [https://sirisa.net](https://sirisa.net)
 
 ## 6. ユーザインタビュー
 
-![SIRISAアンケート結果グラフ](../images/result/251800_result.png)
+![SIRISAアンケート結果グラフ](/images/result/251800_result.png)
 
 **対象:** 高専生および保護者（計6名）  
 **実施日:** 2026年2月  
