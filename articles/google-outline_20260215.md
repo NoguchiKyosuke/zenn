@@ -77,56 +77,56 @@ published: false # 公開設定（falseにすると下書き）
 #### No.1 質問投稿機能の詳細設計
 質問投稿機能の処理フローを以下の図1に示す。
 :::details ログイン機能の処理フロー
-![](../images/outline/flows/01_question_posting.png)
+![](/images/outline/flows/01_question_posting.png)
 *図1. 質問投稿機能の処理フロー*
 :::
 
 #### No.2 回答機能の詳細設計
 回答機能の処理フローを以下の図2に示す。
 :::details 回答機能の処理フロー
-![](../images/outline/flows/02_answer_posting.png)
+![](/images/outline/flows/02_answer_posting.png)
 *図2. 回答機能の処理フロー*
 :::
 
 #### No.3 返信機能の詳細設計
 返信機能の処理フローを以下の図3に示す。
 :::details 返信機能の処理フロー
-![](../images/outline/flows/03_reply_posting.png)
+![](/images/outline/flows/03_reply_posting.png)
 *図3. 返信機能の処理フロー*
 :::
 
 #### No.4 AI返信機能の詳細設計
 AI返信機能の処理フローを以下の図4に示す。
 :::details AI返信機能の処理フロー
-![](../images/outline/flows/04_ai_mention.png)
+![](/images/outline/flows/04_ai_reply.png)
 *図4. AI返信機能の処理フロー*
 :::
 
 #### No.5 数式の導出過程表示機能の詳細設計
 数式の導出過程表示機能の処理フローを以下の図5に示す。
 :::details 数式の導出過程表示機能の処理フロー
-![](../images/outline/flows/05_formula_derivation.png)
+![](/images/outline/flows/05_formula_derivation.png)
 *図5. 数式の導出過程表示機能の処理フロー*
 :::
 
 #### No.6 単語の意味説明機能の詳細設計
 単語の意味説明機能の処理フローを以下の図6に示す。
 :::details 単語の意味説明機能の処理フロー
-![](../images/outline/flows/06_word_annotation.png)
+![](/images/outline/flows/06_word_annotation.png)
 *図6. 単語の意味説明機能の処理フロー*
 :::
 
 #### No.7 小グループ機能の詳細設計
 小グループ機能の処理フローを以下の図7に示す。
 :::details 小グループ機能の処理フロー
-![](../images/outline/flows/07_study_groups.png)
+![](/images/outline/flows/07_study_groups.png)
 *図7. 小グループ機能の処理フロー*
 :::
 
 #### No.8 ログイン機能の詳細設計
 ログイン機能の処理フローを以下の図8に示す。
 :::details ログイン機能の処理フロー
-[![](../images/outline/flows/08_login_firebase.png)]
+[![](/images/outline/flows/08_login_firebase.png)]
 *図8. ログイン機能の処理フロー*
 :::
 
@@ -143,7 +143,7 @@ AI返信機能の処理フローを以下の図4に示す。
 ### 全体構成
 以下に、全体のシステムアーキテクチャを図2に示す。
 
-![](../images/outline/)
+![](/images/outline/)
 **
 
 ####

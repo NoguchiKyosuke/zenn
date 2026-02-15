@@ -1,3 +1,11 @@
+---
+title: "SIRISA開発日記 4日目)"
+emoji: "📚"
+type: "tech"
+topics: ["AI", "Gemini", "Web開発"]
+published: false
+---
+
 # 今回作成するWebアプリ **SIRISA** の概要
 - 勉強の解法や疑問点を人間やAIが回答するアプリ
 - Gemini APIを利用したAI回答

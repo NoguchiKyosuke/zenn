@@ -1,3 +1,11 @@
+---
+title: "SIRISA開発日記 5日目)"
+emoji: "📚"
+type: "tech"
+topics: ["AI", "Gemini", "Web開発"]
+published: false
+---
+
 # 今回作成するWebアプリ **SIRISA** の概要
 - 勉強の解法や疑問点を人間やAIが回答するアプリ
 - Gemini APIを利用したAI回答
@@ -29,18 +37,18 @@ SIRISAは、inputの学習において重要な学習過程を重要視したWeb
 PDF出力については、日本語に対する文字化けが起こった。
 以下がダウンロードして開いたPDFである。
 
-![](../images/20260213/pdf_error.png)
+![](/images/20260213/pdf_error.png)
 
 ## A-2. MARKDOWN出力について
 MARKDOWN出力について、スライドが1p目のみしか、出力されないことが確認された。
 以下の画面で、次へボタンを押した場合も、次のスライドへ遷移しない。
 
-![](../images/20260213/slide_error.png)
+![](/images/20260213/slide_error.png)
 
 # 2. 返信機能のチェックについて
 以下が、返信をするときに表示される画面である。
 
-![](../images/20260213/reply_error.png)
+![](/images/20260213/reply_error.png)
 
 返信機能について、ボタンによる入力のみを受け付けることが確認された。
 

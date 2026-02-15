@@ -1,0 +1,18 @@
+{
+  "name": "zenn-articles",
+  "version": "1.0.0",
+  "description": "Zenn articles repository",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book"
+  },
+  "keywords": [
+    "zenn"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "zenn-cli": "^0.1.157"
+  }
+}

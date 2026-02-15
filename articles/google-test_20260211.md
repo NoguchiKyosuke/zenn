@@ -1,3 +1,11 @@
+---
+title: "SIRISA開発日記 3日目)"
+emoji: "📚"
+type: "tech"
+topics: ["AI", "Gemini", "Web開発"]
+published: false
+---
+
 # 今回作成するWebアプリ **SIRISA** の概要
 - 勉強の解法や疑問点を人間やAIが回答するアプリ
 - Gemini APIを利用したAI回答
@@ -32,23 +40,23 @@ SIRISAは、inputの学習において重要な学習過程を重要視したWeb
 
 ## 静的IPアドレスの取得
 
-![](../images/20260211/VPCNetwork.png)
+![](/images/20260211/VPCNetwork.png)
 *コンソール画面*
 1. コンソール画面において、VPC networkを選択する。
 
-![](../images/20260211/ipaddr.png)
+![](/images/20260211/ipaddr.png)
 *IP Addresses*
 2. VPC network内でIP Addressesを選択する。
 
-![](../images/20260211/promote.png)
+![](/images/20260211/promote.png)
 *静的IPアドレスの取得*
 3. External IP addressの欄で、Actionsの3点リーダをクリックして静的IPアドレスを取得する。
 
-![](../images/20260211/ipname.png)
+![](/images/20260211/ipname.png)
 *静的IPアドレスの名前設定*
 4. 名前を設定して、Reserveをクリックする。
 
 ## ドメインの取得
-![](../images/20260211/network_services.png)
+![](/images/20260211/network_services.png)
 *Network Servicesの選択*
 1. コンソール画面において、Network Servicesを選択する。
