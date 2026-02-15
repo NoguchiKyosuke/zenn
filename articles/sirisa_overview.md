@@ -12,7 +12,8 @@ published: true # 公開設定（falseにすると下書き）
 
 SIRISAのURL: [https://sirisa.net](https://sirisa.net)
 
-デモ動画のURL: https://www.youtube.com/watch?v=1BTFZcvE5I4
+デモ動画のURL(YouTube)
+https://www.youtube.com/watch?v=1BTFZcvE5I4
 
 ## 1. 背景
 チームメンバーの高橋が、高校生になる妹から勉強の質問を受けた際に以下のような悩みがあった。  
