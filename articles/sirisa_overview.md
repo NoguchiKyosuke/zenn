@@ -10,10 +10,10 @@ published: true # 公開設定（falseにすると下書き）
 ## 0. 本システムSIRISAの概要
 本システム**SIRISA**は、**人間とAIの強調によって新たな学習体験を提供すること**を目的とした、高校生向けの勉強の質問・回答のためのWebアプリである。
 
-SIRISAのホームページ
+SIRISAのホームページ↓
 https://sirisa.net
 
-デモ動画のURL(YouTube)
+デモ動画のURL(YouTube)↓
 https://www.youtube.com/watch?v=1BTFZcvE5I4
 
 ## 1. 背景
