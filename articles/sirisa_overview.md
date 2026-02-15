@@ -10,7 +10,8 @@ published: true # 公開設定（falseにすると下書き）
 ## 0. 本システムSIRISAの概要
 本システム**SIRISA**は、**人間とAIの強調によって新たな学習体験を提供すること**を目的とした、高校生向けの勉強の質問・回答のためのWebアプリである。
 
-SIRISAのURL: [https://sirisa.net](https://sirisa.net)
+SIRISAのホームページ
+https://sirisa.net
 
 デモ動画のURL(YouTube)
 https://www.youtube.com/watch?v=1BTFZcvE5I4
@@ -110,7 +111,8 @@ https://www.youtube.com/watch?v=1BTFZcvE5I4
 | 22 | メディアアップロード | 質問や回答、返信の投稿フォームにおいて、画像や動画などのメディアファイルをアップロードして投稿に添付できる機能。 |
 
 機能要求は以上の22項目である。
-ただし、各機能ごとの処理フローと処理フローについての詳細の説明は[(zenn)SIRISA 機能別処理フロー説明](/articles/feature_flows)に示すこととする。
+ただし、各機能ごとの処理フローと処理フローについての詳細の説明はzennのほかの記事にして示すこととする。
+https://zenn.dev/nk2005/articles/feature_flows
 
 ### 非機能要求
 非機能要求について、以下の表4にまとめる。
@@ -129,7 +131,8 @@ https://www.youtube.com/watch?v=1BTFZcvE5I4
 *全体のシステムアーキテクチャ*
 
 #### 詳細
-システムアーキテクチャの詳細については、[(zenn)SIRISA システムアーキテクチャ説明](/articles/architecture)に示すこととする。
+システムアーキテクチャの詳細については、zennのほかの記事にしてに示すこととする。
+https://zenn.dev/nk2005/articles/sirisa_architecture
 
 ## 6. ユーザインタビュー
 
