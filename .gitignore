@@ -3,3 +3,7 @@ node_modules/
 Thumbs.db
 *.log
 .vscode/
+**.wav
+**.mp4
+**.PNG
+**.wproj
